@@ -44,6 +44,3 @@ class Arena(db.Model, SerializerMixin):
 
 
 
-
-    # # =================SERIALIZER RULES==================================
-    # serialize_rules = ( '-months_field', '-pairings_field', '-days_field')
